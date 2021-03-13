@@ -18,13 +18,6 @@ class App extends Component {
         <nav className="pt-navbar">
           <div className="pt-navbar-group pt-align-left">
             <div className="pt-navbar-heading">Build your own Blockchain</div>
-            Made by&nbsp;<a
-              href="https://twitter.com/nambrot"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              @nambrot
-            </a>
           </div>
 
           <div className="pt-navbar-group pt-align-right">
@@ -92,8 +85,8 @@ class App extends Component {
           <div>
             <p>
               This is an final step of an interactive blockchain demo. There is
-              a detailed step by step expanation of all the mechanics involved 
-              in making a blockchain that will give you a much better understanding 
+              a detailed step by step expanation of all the mechanics involved
+              in making a blockchain that will give you a much better understanding
               of how blockchains work, so I highly recommend checking it out at {" "}
               <a
                 href="https://github.com/nambrot/blockchain-in-js"
